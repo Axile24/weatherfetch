@@ -1,5 +1,5 @@
 
-const apikey = "30dtg8RR6kso6lD8OYnWeJ1cBqtEY2Bd";
+const apikey = "";
 
 async function getWeather() {
     // Hämta värdet från inputfältet
